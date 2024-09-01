@@ -180,7 +180,7 @@ Go to Client-1 overview page, click Restart
 
 7. Create a bunch of additional users and attempt to log into client-1 with one of the users
  - In DC-1, Open PowerShell ISE As an administrator (rigth click powershell)
- - Copy the files from this link (https://github.com/DereHz/Generate-Names-Created-Users/blob/main/README.md)
+ - Copy the files from this link (https://github.com/gilbert-baltazar/Active-Directory-Bulk-User-Creation/blob/main/README.md?plain=1)
  - Paste it on PowerShell
 
 <img width="2126" alt="Screen Shot 2024-05-22 at 5 51 16 PM" src="https://github.com/DereHz/Configure-Active-Directory/assets/169094076/3d928b55-faf4-4e66-9ff1-7c51f9665c79">
